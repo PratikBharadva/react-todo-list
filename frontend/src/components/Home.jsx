@@ -1,3 +1,4 @@
+// In jsx, component name should be in PascalCasing..
 import React from 'react'
 
 const Home = () => {
